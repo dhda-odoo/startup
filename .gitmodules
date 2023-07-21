@@ -1,0 +1,3 @@
+[submodule "startup_fundraising"]
+	path = startup_fundraising
+	url = https://github.com/dhda-odoo/startup_fundraising.git
